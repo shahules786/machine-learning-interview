@@ -84,6 +84,7 @@
 * [L1/L2 intuition](https://www.linkedin.com/pulse/intuitive-visual-explanation-differences-between-l1-l2-xiaoli-chen/)
 * [Decision tree and Random Forest fundamental](https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf)
 * [Explain boosting](https://web.stanford.edu/~hastie/TALKS/boost.pdf)
+* [AdaBoost and Gradient Boosting](https://medium.com/diogo-menezes-borges/boosting-with-adaboost-and-gradient-boosting-9cbab2a1af81)
 * [Least Square as Maximum Likelihood Estimator](https://www.youtube.com/watch?v=_-Gnu498s3o)
 * [Maximum Likelihood Estimator introduction](https://www.youtube.com/watch?v=jpHreXjtw1Q)
 * [Kmeans](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html). Try to implement Kmeans from scratch [sample code from flothesof.github.io](sample/kmeans.ipynb). Bonus point for vectorized version in numpy + completed in 20 minutes. Follow-up with worst case time complexity and improvement for [initialization](extra.md).
